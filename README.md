@@ -27,3 +27,6 @@ cuenta con 6 campos para rellenar y 3 botones (guardar+ avanzar+retroceder)
 - [ ] Guardar lista de contactos en ficheros
 - [ ] Cargar lista de contactos desde fichero
 - [ ] Mejorar la interfaz frafica
+
+
+![Agenda](https://github.com/wilfredopinom/AgendaElectronica/blob/fba27a31c029f67ef293e3394b0d58e7d6f3aa52/img/visual_agenda.png)
